@@ -1,0 +1,314 @@
+[
+    {
+    "id": 1,
+    "chef_name": "Ahmed Hossain",
+    "years_of_experience": 12,
+    "num_of_recipes": 70,
+    "likes": 1500,
+    "picture_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg",
+    "bio": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010.",
+    "recipe":[
+      {
+          "recipe_name": "Beef Shatkora",
+          "ingredients": [
+              "1/4 shatkora, fresh or frozen, approx. 175g",
+              "6 tbsp of vegetable oil",
+              "2 medium onions, chopped",
+              "2 tbsp of garlic, minced",
+              "2 tbsp of ginger, minced"
+          ],
+          "cooking_method": "Cut the piece of shatkora into wedges and then chop each wedge into 4 pieces, making sure to remove any seeds. If using frozen shatkora, defrost first in cold water for 1 hour, then cut each slice into 4 pieces and set aside. Heat the oil in a large pan over a medium heat and add the garlic, ginger and onions. Sauté for a few minutes until the onions are translucent. Stir in the beef, salt, whole spices and green chillies and add 250ml of cold water. Bring to a simmer then cover and cook for 40 minutes over a medium heat, stirring occasionally",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Fish curry with daikon",
+          "ingredients": [
+            "450g of daikon radish",
+            "4 tbsp of vegetable oil",
+            "4 garlic cloves",
+            "1 medium onion, blitzed to a coarse paste",
+            "2 tsp salt",
+            "1 tsp ground turmeric"
+            
+          ],
+          "cooking_method": "If you are using rohu fish it will usually be frozen. Soak it in cold water for 30-45 minutes to defrost and while still a little firm, descale and cut each steak into quarters and wash in cold saltwater a few times. Drain and set aside. If using an alternative such as cod, cut into 2 ½ inch chunks then rinse, drain and set aside.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Bangladeshi rice flour and date molasses cakes",
+          "ingredients": [
+              "250g of date molasses",
+              "400ml of water, lukewarm",
+              "250g of rice flour",
+              "150g of plain flour",
+              "1/8 tsp ground cinnamon, (optional)",
+              "1/8 tsp ground cardamom, (optional)"
+          ],
+          "cooking_method": "Add the molasses to a large mixing bowl and begin by pouring 300ml of water to start with and whisk together. The texture of Bangladeshi molasses varies from a thick syrup to slightly set. I use brands such as Zilani or Akza. If the set is very syrupy (like golden syrup) you will only require 300–325ml of water",
+          "rating": 3.5
+         
+        }                  
+  ]
+  },
+  {
+    "id": 2,
+    "chef_name": "Fakruddin",
+    "years_of_experience": 8,
+    "num_of_recipes": 45,
+    "likes": 800,
+    "picture_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Fakruddin-famous-chefs-in-Bangladesh-1.jpg",
+    "bio": "From Muslim Miah, Fakruddin figured out how to cook. It was short colleague which uncovered to Fakruddin his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh.",
+    "recipe":[
+      {
+          "recipe_name": "Beef Shatkora",
+          "ingredients": [
+              "1/4 shatkora, fresh or frozen, approx. 175g",
+              "6 tbsp of vegetable oil",
+              "2 medium onions, chopped",
+              "2 tbsp of garlic, minced",
+              "2 tbsp of ginger, minced"
+          ],
+          "cooking_method": "Cut the piece of shatkora into wedges and then chop each wedge into 4 pieces, making sure to remove any seeds. If using frozen shatkora, defrost first in cold water for 1 hour, then cut each slice into 4 pieces and set aside. Heat the oil in a large pan over a medium heat and add the garlic, ginger and onions. Sauté for a few minutes until the onions are translucent. Stir in the beef, salt, whole spices and green chillies and add 250ml of cold water. Bring to a simmer then cover and cook for 40 minutes over a medium heat, stirring occasionally",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Fish curry with daikon",
+          "ingredients": [
+            "450g of daikon radish",
+            "4 tbsp of vegetable oil",
+            "4 garlic cloves",
+            "1 medium onion, blitzed to a coarse paste",
+            "2 tsp salt",
+            "1 tsp ground turmeric"
+            
+          ],
+          "cooking_method": "If you are using rohu fish it will usually be frozen. Soak it in cold water for 30-45 minutes to defrost and while still a little firm, descale and cut each steak into quarters and wash in cold saltwater a few times. Drain and set aside. If using an alternative such as cod, cut into 2 ½ inch chunks then rinse, drain and set aside.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Bangladeshi rice flour and date molasses cakes",
+          "ingredients": [
+              "250g of date molasses",
+              "400ml of water, lukewarm",
+              "250g of rice flour",
+              "150g of plain flour",
+              "1/8 tsp ground cinnamon, (optional)",
+              "1/8 tsp ground cardamom, (optional)"
+          ],
+          "cooking_method": "Add the molasses to a large mixing bowl and begin by pouring 300ml of water to start with and whisk together. The texture of Bangladeshi molasses varies from a thick syrup to slightly set. I use brands such as Zilani or Akza. If the set is very syrupy (like golden syrup) you will only require 300–325ml of water",
+          "rating": 3.5
+         
+        }                  
+  ]
+  },
+  {
+    "id": 3,
+    "chef_name": "Asad Latif",
+    "years_of_experience": 15,
+    "num_of_recipes": 90,
+    "likes": 2000,
+    "picture_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+    "bio": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.",
+    "recipe":[
+      {
+          "recipe_name": "Beef Shatkora",
+          "ingredients": [
+              "1/4 shatkora, fresh or frozen, approx. 175g",
+              "6 tbsp of vegetable oil",
+              "2 medium onions, chopped",
+              "2 tbsp of garlic, minced",
+              "2 tbsp of ginger, minced"
+          ],
+          "cooking_method": "Cut the piece of shatkora into wedges and then chop each wedge into 4 pieces, making sure to remove any seeds. If using frozen shatkora, defrost first in cold water for 1 hour, then cut each slice into 4 pieces and set aside. Heat the oil in a large pan over a medium heat and add the garlic, ginger and onions. Sauté for a few minutes until the onions are translucent. Stir in the beef, salt, whole spices and green chillies and add 250ml of cold water. Bring to a simmer then cover and cook for 40 minutes over a medium heat, stirring occasionally",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Fish curry with daikon",
+          "ingredients": [
+            "450g of daikon radish",
+            "4 tbsp of vegetable oil",
+            "4 garlic cloves",
+            "1 medium onion, blitzed to a coarse paste",
+            "2 tsp salt",
+            "1 tsp ground turmeric"
+            
+          ],
+          "cooking_method": "If you are using rohu fish it will usually be frozen. Soak it in cold water for 30-45 minutes to defrost and while still a little firm, descale and cut each steak into quarters and wash in cold saltwater a few times. Drain and set aside. If using an alternative such as cod, cut into 2 ½ inch chunks then rinse, drain and set aside.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Bangladeshi rice flour and date molasses cakes",
+          "ingredients": [
+              "250g of date molasses",
+              "400ml of water, lukewarm",
+              "250g of rice flour",
+              "150g of plain flour",
+              "1/8 tsp ground cinnamon, (optional)",
+              "1/8 tsp ground cardamom, (optional)"
+          ],
+          "cooking_method": "Add the molasses to a large mixing bowl and begin by pouring 300ml of water to start with and whisk together. The texture of Bangladeshi molasses varies from a thick syrup to slightly set. I use brands such as Zilani or Akza. If the set is very syrupy (like golden syrup) you will only require 300–325ml of water",
+          "rating": 3.5
+         
+        }                  
+  ]
+  },
+  {
+    "id": 4,
+    "chef_name": "Kabir",
+    "years_of_experience": 20,
+    "num_of_recipes": 120,
+    "likes": 2500,
+    "picture_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-kabir-famous-bangladeshi-chefs.jpg",
+    "bio": "Siddiqua Kabir (May 7, 1931 – January 31, 2012) was a Bangladeshi nutritionist, scholastic, cookbook writer andcooking show TV have. A teacher, Kabir facilitated and visitor featured in various network shows featuringBangladeshi food, including Siddiqua Kabir’s Recipe on NTV Bangla . Kabir got honors from the culinary and media businesses, including the Sheltech Award, which was given to her in 2009. Her countless contributions for Bangladesh food, she is ranked at fourth position among top 10 chefs in Bangladesh.",
+    "recipe":[
+      {
+          "recipe_name": "Beef Shatkora",
+          "ingredients": [
+              "1/4 shatkora, fresh or frozen, approx. 175g",
+              "6 tbsp of vegetable oil",
+              "2 medium onions, chopped",
+              "2 tbsp of garlic, minced",
+              "2 tbsp of ginger, minced"
+          ],
+          "cooking_method": "Cut the piece of shatkora into wedges and then chop each wedge into 4 pieces, making sure to remove any seeds. If using frozen shatkora, defrost first in cold water for 1 hour, then cut each slice into 4 pieces and set aside. Heat the oil in a large pan over a medium heat and add the garlic, ginger and onions. Sauté for a few minutes until the onions are translucent. Stir in the beef, salt, whole spices and green chillies and add 250ml of cold water. Bring to a simmer then cover and cook for 40 minutes over a medium heat, stirring occasionally",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Fish curry with daikon",
+          "ingredients": [
+            "450g of daikon radish",
+            "4 tbsp of vegetable oil",
+            "4 garlic cloves",
+            "1 medium onion, blitzed to a coarse paste",
+            "2 tsp salt",
+            "1 tsp ground turmeric"
+            
+          ],
+          "cooking_method": "If you are using rohu fish it will usually be frozen. Soak it in cold water for 30-45 minutes to defrost and while still a little firm, descale and cut each steak into quarters and wash in cold saltwater a few times. Drain and set aside. If using an alternative such as cod, cut into 2 ½ inch chunks then rinse, drain and set aside.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Bangladeshi rice flour and date molasses cakes",
+          "ingredients": [
+              "250g of date molasses",
+              "400ml of water, lukewarm",
+              "250g of rice flour",
+              "150g of plain flour",
+              "1/8 tsp ground cinnamon, (optional)",
+              "1/8 tsp ground cardamom, (optional)"
+          ],
+          "cooking_method": "Add the molasses to a large mixing bowl and begin by pouring 300ml of water to start with and whisk together. The texture of Bangladeshi molasses varies from a thick syrup to slightly set. I use brands such as Zilani or Akza. If the set is very syrupy (like golden syrup) you will only require 300–325ml of water",
+          "rating": 3.5
+         
+        }                  
+  ]
+  },
+  {
+    "id": 5,
+    "chef_name": "Kiran Jethwa",
+    "years_of_experience": 5,
+    "num_of_recipes": 30,
+    "likes": 500,
+    "picture_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg",
+    "bio": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.",
+    "recipe":[
+      {
+          "recipe_name": "Beef Shatkora",
+          "ingredients": [
+              "1/4 shatkora, fresh or frozen, approx. 175g",
+              "6 tbsp of vegetable oil",
+              "2 medium onions, chopped",
+              "2 tbsp of garlic, minced",
+              "2 tbsp of ginger, minced"
+          ],
+          "cooking_method": "Cut the piece of shatkora into wedges and then chop each wedge into 4 pieces, making sure to remove any seeds. If using frozen shatkora, defrost first in cold water for 1 hour, then cut each slice into 4 pieces and set aside. Heat the oil in a large pan over a medium heat and add the garlic, ginger and onions. Sauté for a few minutes until the onions are translucent. Stir in the beef, salt, whole spices and green chillies and add 250ml of cold water. Bring to a simmer then cover and cook for 40 minutes over a medium heat, stirring occasionally",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Fish curry with daikon",
+          "ingredients": [
+            "450g of daikon radish",
+            "4 tbsp of vegetable oil",
+            "4 garlic cloves",
+            "1 medium onion, blitzed to a coarse paste",
+            "2 tsp salt",
+            "1 tsp ground turmeric"
+            
+          ],
+          "cooking_method": "If you are using rohu fish it will usually be frozen. Soak it in cold water for 30-45 minutes to defrost and while still a little firm, descale and cut each steak into quarters and wash in cold saltwater a few times. Drain and set aside. If using an alternative such as cod, cut into 2 ½ inch chunks then rinse, drain and set aside.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Bangladeshi rice flour and date molasses cakes",
+          "ingredients": [
+              "250g of date molasses",
+              "400ml of water, lukewarm",
+              "250g of rice flour",
+              "150g of plain flour",
+              "1/8 tsp ground cinnamon, (optional)",
+              "1/8 tsp ground cardamom, (optional)"
+          ],
+          "cooking_method": "Add the molasses to a large mixing bowl and begin by pouring 300ml of water to start with and whisk together. The texture of Bangladeshi molasses varies from a thick syrup to slightly set. I use brands such as Zilani or Akza. If the set is very syrupy (like golden syrup) you will only require 300–325ml of water",
+          "rating": 3.5
+         
+        }                  
+  ]
+  },
+  {
+    "id": 6,
+    "chef_name": "Manik Miah",
+    "years_of_experience": 10,
+    "num_of_recipes": 60,
+    "likes": 1200,
+    "picture_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+    "bio": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh. ",
+    "recipe":[
+      {
+          "recipe_name": "Beef Shatkora",
+          "ingredients": [
+              "1/4 shatkora, fresh or frozen, approx. 175g",
+              "6 tbsp of vegetable oil",
+              "2 medium onions, chopped",
+              "2 tbsp of garlic, minced",
+              "2 tbsp of ginger, minced"
+          ],
+          "cooking_method": "Cut the piece of shatkora into wedges and then chop each wedge into 4 pieces, making sure to remove any seeds. If using frozen shatkora, defrost first in cold water for 1 hour, then cut each slice into 4 pieces and set aside. Heat the oil in a large pan over a medium heat and add the garlic, ginger and onions. Sauté for a few minutes until the onions are translucent. Stir in the beef, salt, whole spices and green chillies and add 250ml of cold water. Bring to a simmer then cover and cook for 40 minutes over a medium heat, stirring occasionally",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Fish curry with daikon",
+          "ingredients": [
+            "450g of daikon radish",
+            "4 tbsp of vegetable oil",
+            "4 garlic cloves",
+            "1 medium onion, blitzed to a coarse paste",
+            "2 tsp salt",
+            "1 tsp ground turmeric"
+            
+          ],
+          "cooking_method": "If you are using rohu fish it will usually be frozen. Soak it in cold water for 30-45 minutes to defrost and while still a little firm, descale and cut each steak into quarters and wash in cold saltwater a few times. Drain and set aside. If using an alternative such as cod, cut into 2 ½ inch chunks then rinse, drain and set aside.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Bangladeshi rice flour and date molasses cakes",
+          "ingredients": [
+              "250g of date molasses",
+              "400ml of water, lukewarm",
+              "250g of rice flour",
+              "150g of plain flour",
+              "1/8 tsp ground cinnamon, (optional)",
+              "1/8 tsp ground cardamom, (optional)"
+          ],
+          "cooking_method": "Add the molasses to a large mixing bowl and begin by pouring 300ml of water to start with and whisk together. The texture of Bangladeshi molasses varies from a thick syrup to slightly set. I use brands such as Zilani or Akza. If the set is very syrupy (like golden syrup) you will only require 300–325ml of water",
+          "rating": 3.5
+         
+        }                  
+  ]
+  }
+  
+  
+  
+  
+  
+]
+  
